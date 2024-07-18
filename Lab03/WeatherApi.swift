@@ -1,9 +1,6 @@
-//
+
 //  WeatherApi.swift
 //  Lab03
-//
-//  Created by Urvish Patel on 2024-04-23.
-//
 
 import Foundation
 
