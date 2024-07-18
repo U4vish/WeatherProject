@@ -11,6 +11,9 @@ First Screen UI changes and Second page UI done by Yesha.
 
 Structure.swift, ViewController.swift and WeatherApi.swift done by Urvish Patel
 
+update ViewController.swift file and create secondPage.swift done by Anup 
+
+
 
 
 
